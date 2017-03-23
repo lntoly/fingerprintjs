@@ -1,5 +1,6 @@
 <p align="center">
 <h2>fingerprintjs（浏览器帆布指纹技术）</h2>
+<h2>测试报表：https://docs.zoho.com/sheet/ropen.do?rid=08m2ga1cf6790c0eb4d8c8f7e54ca6ddb9b72<h2>
 <br/>
 <a href="https://travis-ci.org/Valve/fingerprintjs"><img src="http://img.shields.io/travis/Valve/fingerprintjs/master.svg?style=flat" /></a>
 <a href="https://gitter.im/Valve/fingerprintjs"><img src="https://badges.gitter.im/Valve/fingerprintjs.png"/></a>
@@ -7,7 +8,6 @@
 
 ...........................................................................
 ## DEPRECATION WARNING                                                     
-
 No new development will happen in this repository. A new modern library   
 called [Fingerprintjs2](https://github.com/Valve/fingerprintjs2) is being developed.         
 Please submit only bugs, no new feature requests here.                    
