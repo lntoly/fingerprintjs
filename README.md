@@ -1,5 +1,5 @@
 <p align="center">
-<h2>fingerprintjs</h2>
+<h2>fingerprintjs（浏览器帆布指纹技术）</h2>
 <br/>
 <a href="https://travis-ci.org/Valve/fingerprintjs"><img src="http://img.shields.io/travis/Valve/fingerprintjs/master.svg?style=flat" /></a>
 <a href="https://gitter.im/Valve/fingerprintjs"><img src="https://badges.gitter.im/Valve/fingerprintjs.png"/></a>
